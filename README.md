@@ -4,7 +4,7 @@ This is my __work in progress__ dark theme for the [MDN Web Docs](https://develo
 
 ![alt text](./images/example.jpg "example of how this theme looks")
 
-## Current Version
+## Install
 
 [mdn-docs-dark-theme.user.css](https://github.com/subz390/mdn-docs-dark-theme/raw/main/mdn-docs-dark-theme.user.css)
 
@@ -14,17 +14,17 @@ This is my __work in progress__ dark theme for the [MDN Web Docs](https://develo
 - initial release
 
 
-## Current State
+# Living Project
 
-I use MDN Web Docs almost daily and maintain this dark theme to cover the most used areas of the website.  There are some areas that need implementing though, so don't expect this stylesheet to be a polished.
+I use [MDN Web Docs](https://developer.mozilla.org/en-US/) almost daily and maintain this dark theme to cover the most used areas of the website.  There are some areas that need implementing though, so don't expect this stylesheet to be completely polished.
 
-This is a living project however and I will continue to update into the forseeable future.
+This is a `living project` however and I will continue to submit updates at infrequent intervals into the forseeable future.
 
 ## Contributions
 
 This is an opensource project and I welcome collaborators.  Open an issue to discuss your ideas before submitting pull requests.
 
-## How To Use
+# How To Use
 
 A guide if you've never used user styles before.
 
